@@ -1,6 +1,6 @@
-@font-face { font-family: MeltedMonster; src: url('/font/Melted\ Monster.ttf'); }
-@font-face { font-family: Nightmare; src: url('/font/Nightmare.otf'); }
-@font-face { font-family: Satan; src: url('/font/who\ asks\ satan.ttf'); }
+
+@font-face { font-family: Nightmare; src: url('Nightmare.otf'); }
+
 
 body{
     background-image: url("../img/fundo.jpeg");
