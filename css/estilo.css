@@ -3,7 +3,7 @@
 @font-face { font-family: Satan; src: url('/font/who\ asks\ satan.ttf'); }
 
 body{
-    background-image: url("../img/Fundo.jpeg");
+    background-image: url("../img/fundo.jpeg");
     background-repeat: no-repeat;
     background-size: 100%;
     display: flex;
